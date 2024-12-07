@@ -124,7 +124,8 @@ body {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-10-26 090350](https://github.com/user-attachments/assets/af4aaf00-b20a-4499-aadd-d499a998805c)
+![Screenshot 2024-12-07 134230](https://github.com/user-attachments/assets/b1153cba-107d-4589-9792-9061850d7189)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
